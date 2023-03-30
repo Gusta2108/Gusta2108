@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Oi 👋, eu sou o Gustavo Oliveira</h1>
 
 - 🌱 Atualmente estou aprendendo Python para data science
