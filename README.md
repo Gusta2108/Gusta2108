@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou aprendendo Python para data science
 
-- 💬 Me pergunte sobre Excel, Power BI, SQL e Python
+- 💬 Me pergunte sobre SQL e Python
 
 - 📫 Você me acha através do e-mail **MNISGO@hotmail.com**
 
